@@ -1,3 +1,7 @@
+* {
+  scroll-behavior: smooth;
+}
+
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aU0JfOrWk4kfpeaLW_4iiV9YNuDOj2_lCelcDhgXROO7rJJuWLyEHXU&s=10');
   background-position: center;
